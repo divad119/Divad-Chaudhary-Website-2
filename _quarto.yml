@@ -12,6 +12,8 @@ website:
         text: CV
       - href: Assignments.qmd
         text: Assignments
+      - href: contacts.qmd
+        text: Contacts
 
 format:
   html:
