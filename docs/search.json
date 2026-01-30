@@ -14,6 +14,13 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "Assignments/Assignment 1.html",
+    "href": "Assignments/Assignment 1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "listing: contents: Assignments type: grid sort: “date desc” categories: true —"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
