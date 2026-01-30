@@ -10,7 +10,7 @@ website:
         text: Home
       - href: cv.qmd
         text: CV
-      - href: Assignments
+      - href: Assignments.qmd
         text: Assignments
 
 format:
