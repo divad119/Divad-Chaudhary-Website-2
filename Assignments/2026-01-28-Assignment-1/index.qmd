@@ -6,6 +6,7 @@ author:
   - affiliation: Department of Economics, University of Winnipeg
   - sffiliation_url: http://www.uwinnipeg.ca/economics/
 categories: [Quarto, R, Data Analysis]
-
+citation:
+  url: 
 draft: false
 ---
