@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-Click [here](files/cv.pdf)
+Click [here](docs/cv.pdf)
 
 # Contact Information
 
