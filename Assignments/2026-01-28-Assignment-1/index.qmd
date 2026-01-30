@@ -8,5 +8,6 @@ author:
 categories: [Quarto, R, Data Analysis]
 citation:
   url: 
+Image: image.jpg
 draft: false
 ---
