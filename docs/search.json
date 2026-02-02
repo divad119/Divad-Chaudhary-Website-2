@@ -7,11 +7,11 @@
     "text": "Click here\n\nContact Information\n\nchaudhary-d@webmail.uwinnipeg.ca\n\n\n\nEducation\n\nBachelor’s in Arts in Economics (In Progress)\n\n\n\nCurrent Position\n\nOCM Support (ERP Modernization) - Government of Manitoba"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Divad Chaudhary Website (2)",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "Assignments.html",
@@ -21,17 +21,17 @@
     "text": "listing: contents: Assignments type: grid sort: “date desc” categories: true —\n\nAssignment 1"
   },
   {
-    "objectID": "Assignments/2026-01-28-Assignment-1/index.html",
-    "href": "Assignments/2026-01-28-Assignment-1/index.html",
-    "title": "Assignment 1",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Divad Chaudhary Website (2)",
     "section": "",
-    "text": "Here is the pdf of the assignment Click here"
+    "text": "My name is Divad Chaudhary. I am pursuing my Bachelor’s degree in Economics at the University of Winnipeg. I am a big fan of The Weeknd."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Divad Chaudhary Website (2)",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Divad Chaudhary. I am pursuing my Bachelor’s degree in Economics at the University of Winnipeg. I am a big fan of The Weeknd."
   }
 ]
